@@ -1,2 +1,2 @@
 # 16022021_10v
-Es esmu labs programmētājs
+Es esmu izcils programmētājs
